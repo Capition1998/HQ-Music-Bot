@@ -35,7 +35,8 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://www.youtube.com/channel/UCHy3VmI88u9RMhUbyaNy03g
+      ",
   },
 
   voteManager: {
